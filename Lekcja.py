@@ -1,5 +1,8 @@
 for x in range(1, 100):
     print(x)
 
-for znak in 'spam_napis':
- print(znak, end=' ')
+for x in range(1, 100):
+    print(x)
+
+    for x in range(7, 77 , 7):
+        print(x)
